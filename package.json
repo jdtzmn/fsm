@@ -1,0 +1,12 @@
+{
+  "name": "fsm",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "python build.py"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^4.0.4"
+  }
+}
